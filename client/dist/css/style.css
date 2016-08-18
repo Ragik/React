@@ -1,0 +1,152 @@
+.twPc-avatarLink {
+  background-color: #fff;
+  border-radius: 6px;
+  display: inline-block !important;
+  float: right;
+  margin: -30px 5px 0 8px;
+  max-width: 100%;
+  padding: 1px;
+  vertical-align: bottom;
+}
+
+.profile{
+ display: inline;clear: both;
+}
+.twPc-avatarImg {
+  border: 2px solid #fff;
+  border-radius: 7px;
+  box-sizing: border-box;
+  color: #fff;
+  height: 72px;
+  width: 72px;
+}
+
+.twPc-divUser {
+  margin: 5px 0 0;
+  line-height: 21px;
+}
+.twPc-divName {
+  font-size: 18px;
+  font-weight: 200;
+  display: inline-flex;
+}
+.twPc-divName a {
+  color: inherit !important;
+}
+
+#composeButton{
+padding-top: 25px;
+padding-bottom: 16px;
+}
+#setting
+{
+ padding-left: 20px;
+}
+#myModel{
+  display: none;
+}
+#model1{
+  width: 700px;
+  height: 300px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -150px;
+  margin-top: -150px;
+}
+.btn-compose {
+   background: none repeat scroll 0 0 #ff6c60 ;
+   color: #fff;
+   padding: 12px 0px;
+   text-align: center;
+   width:120px;
+   margin-left: 5px;
+
+}
+.btn-compose:hover {
+   background: none repeat scroll 0 0 #f5675c ;
+   color: #fff;
+}
+.mail-option {
+   display: inline-block;
+   margin-bottom: 10px;
+   width: 100%;
+}
+.mail-option .chk-all, .mail-option .btn-group {
+   margin-right: 5px;
+}
+.mail-option .chk-all, .mail-option .btn-group a.btn {
+   background: none repeat scroll 0 0 #fcfcfc ;
+   border: 1px solid #e7e7e7 ;
+   border-radius: 3px !important;
+   color: #afafaf ;
+   display: inline-block;
+   padding: 5px 10px;
+}
+.inbox-body .modal .modal-body input, .inbox-body .modal .modal-body textarea {
+   border: 1px solid #e6e6e6 ;
+   box-shadow: none;
+}
+.btn-send, .btn-send:hover {
+   background: none repeat scroll 0 0 #00a8b3 ;
+   color: #fff;
+}
+.btn-send:hover {
+   background: none repeat scroll 0 0 #009da7 ;
+}
+.modal-header h4.modal-title {
+   font-family: "Open Sans",sans-serif;
+   font-weight: 300;
+}
+.modal-body label {
+   font-family: "Open Sans",sans-serif;
+   font-weight: 400;
+}
+ul {
+   list-style-type: none;
+   padding: 0px;
+   margin: 0px;
+}
+ul.inbox-pagination {
+  float: right;
+}
+ul.inbox-pagination li {
+  float: left;
+  padding-right: 0px;
+  padding-left: 0px;
+}
+.inbox-pagination a.np-btn {
+  background: none repeat scroll 0 0 gray ;
+  border: 1px solid #e7e7e7  ;
+  border-radius: 3px !important;
+  color: white ;
+  display: inline-block;
+
+
+}
+.inbox-pagination li span {
+  display: inline-block;
+
+}
+#profile
+{
+ padding-left: 120px;
+}
+#paddingright
+{
+ margin-right:100px;
+ padding-left: 0px;
+}
+
+.mail-checkbox{
+ width: 80px;
+}
+.mail-checkbox:hover{
+ background: none repeat scroll 0 0 #f5675c ;
+ color: #fff;
+}
+#labelclick
+{
+  width:100px;
+
+}
